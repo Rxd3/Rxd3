@@ -12,12 +12,6 @@ I'm computer engineering student and I have a strong passion <br>in hardware and
 ![](https://nirzak-streak-stats.vercel.app/?user=Rxd3&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rxd3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rxd3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Rxd3&icon=0&color=0)](https://visitcount.itsvg.in)
 
